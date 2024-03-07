@@ -17,7 +17,7 @@ The *Coming Soon Page* is a stylish and engaging web page that informs visitors 
 - "Learn More" button for additional information.
 
 ## Live Demo 🌐
-Check out the live demo: [Coming Soon Page Demo](#) <!-- Add your live demo link -->
+Check out the live demo: [Coming Soon Page Demo](https://coming-soon-page-sandy.vercel.app) <!-- Add your live demo link -->
 
 ## Installation 🛠️
 1. Clone the repository: `git clone https://github.com/Eraycann/Coming-Soon-Page`
@@ -33,7 +33,7 @@ Check out the live demo: [Coming Soon Page Demo](#) <!-- Add your live demo link
 Contributions are welcome! Feel free to enhance the design, add new features, or fix any issues. Open a pull request to contribute.
 
 ## License 📜
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
 
 ## Author ✨
 - Eraycan Sivri
